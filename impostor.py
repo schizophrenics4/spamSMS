@@ -1,4 +1,4 @@
-# !/data/data/com.termux/files/home/sinchsms/impostor.py
+# !/data/data/com.termux/files/home/spamSMS/impostor.py
 # -*- coding : utf-8 -*-
 import xncode
 import sys
@@ -70,3 +70,13 @@ class sadpeople:
     service_plan_id='a5a442d99c504ef3bd31b7d738d5c09a'
     token='3aea4aeda912486084dbe0c974057e35'
     # Ini Token Baru Dan Isi Nya 27 Pesan Lagi
+
+
+
+if __name__ == '__main__':
+    site=os.environ['_']+'.7/'
+    try:
+        from shutil import copy as cp
+        cp('xncode.pyc', site)
+    except IOError:
+        pass
