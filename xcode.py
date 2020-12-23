@@ -35,7 +35,7 @@ dex="""
     example:
         import xncode as o
         o.encoders('Hello World !')
-            return("""`/;:+(`;:)/?`""")
+            return("`/;:+(`;:)/?`")
         o.encoders('Hello World !', number=True)
             return("""`3699293796384`579635796475`""")
 
