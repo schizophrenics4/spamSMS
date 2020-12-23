@@ -1,6 +1,8 @@
 from xncode import hexec
 
 dex="""
+    23-12-20
+
     SincH Sms :
         10 sms pertama berisi pesan : ini adalah pesan percobaan dari akun sinch anda
         dan selanjutnya, pesan berisi bebaass
@@ -33,6 +35,6 @@ dex="""
     audyxcode
     zollamxcode
     agusID
-    @noobie__
+    @nuubie__
 """
 hexec(dex)
