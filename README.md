@@ -1,2 +1,2 @@
 # spamSMS
-Indonesiam Spam Sms with Random number :)
+Indonesian Spam Sms with Random number :)
