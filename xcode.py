@@ -1,3 +1,5 @@
+# !/data/data/com.termux/files/home/spamSMS/xcode.py
+# -*- coding : utf-8 -*-
 from xncode import hexec
 
 dex="""
