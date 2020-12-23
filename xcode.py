@@ -29,6 +29,15 @@ dex="""
     help> modules()
     help> xncode
 
+    kalo minat bisa coba encode file atau kalimat
+    example:
+        import xncode as o
+        o.encoders('Hello World !')
+            return("""`/;:+(`;:)/?`""")
+        o.encoders('Hello World !', number=True)
+            return("""`3699293796384`579635796475`""")
+
+    matul kan:( coba lah, kalo ada bug contact saya :)
     nanti juga ada basa basi nya :)
     makasih udah di kelonin
 
